@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "get-kols-data",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "2223f5bf-231b-4e91-bce1-d80585fcfddf",
+			"database_name": "kols"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
